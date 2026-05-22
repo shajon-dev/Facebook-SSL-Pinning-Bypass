@@ -42,7 +42,7 @@
       <td rowspan="2" align="center"><code>com.facebook.katana</code></td>
       <td align="center">560.0.0.57.63</td>
       <td align="center">✅ Bypassed</td>
-      <td align="center">Yes</td>
+      <td align="center">No</td>
       <td colspan="2" align="center"><a href="https://t.me/DarknessKing999">Contact Telegram</a></td>
     </tr>
     <tr>
