@@ -101,11 +101,11 @@ If a specific bypass is not available on my GitHub, or if you have a custom proj
 
 ## ☕ Buy Me a Coffee
 
-If this project helped you, consider buying me a coffee! ❤️
+If this project helped you, consider **buying me a coffee** — it keeps these bypasses alive and updated! ❤️
 
 | Coin | Network | Address |
-| :--- | :--- | :--- |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/history/bnb-bnb-logo.svg" width="20" /></td><td>&nbsp;<b>Binance</b></td></tr></table> | Binance Pay (UID) | <pre><code>839622149</code></pre> |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/tether-usdt-logo.svg" width="20" /></td><td>&nbsp;<b>USDT</b></td></tr></table> | TRC20 [TRX Network] | <pre><code>TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH</code></pre> |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | <pre><code>0x22d4f314acbf6055b0a37df8df68f9cd40ba889a</code></pre> |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | <pre><code>14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE</code></pre> |
+| :---: | :--- | :--- |
+| ![Binance](https://img.shields.io/badge/Binance-F3BA2F?style=for-the-badge&logo=binance&logoColor=black) | Binance Pay (UID) | <pre><code>839622149</code></pre> |
+| ![USDT](https://img.shields.io/badge/USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white) | TRC20 [TRX Network] | <pre><code>TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH</code></pre> |
+| ![ANY Crypto](https://img.shields.io/badge/ANY%20Crypto-627EEA?style=for-the-badge&logo=ethereum&logoColor=white) | ETH / BSC | <pre><code>0x22d4f314acbf6055b0a37df8df68f9cd40ba889a</code></pre> |
+| ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) | Bitcoin Network | <pre><code>14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE</code></pre> |
