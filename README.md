@@ -69,6 +69,7 @@
 ## 📱 Requirements
 1. 📱 **No root needed** — runs on any Android phone or emulator. Recommended emulator: **LDPlayer 9 (Android 9)**.
 2. 🔎 **Pick the right architecture (ABI).** Check your device's ABI first (recommended) with the ADB command below — or any device-info app such as CPU-Z — then grab the matching build:
+
    ```bash
    adb shell getprop ro.product.cpu.abi
    ```
