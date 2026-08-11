@@ -66,21 +66,15 @@
   </tbody>
 </table>
 
-## ☕ Buy Me a Coffee
-
-If this project helped you, consider buying me a coffee! ❤️
-
-| Coin | Network | Address |
-| :--- | :--- | :--- |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/history/bnb-bnb-logo.svg" width="20" /></td><td>&nbsp;<b>Binance</b></td></tr></table> | Binance Pay (UID) | <pre><code>839622149</code></pre> |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/tether-usdt-logo.svg" width="20" /></td><td>&nbsp;<b>USDT</b></td></tr></table> | TRC20 [TRX Network] | <pre><code>TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH</code></pre> |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | <pre><code>0x22d4f314acbf6055b0a37df8df68f9cd40ba889a</code></pre> |
-| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | <pre><code>14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE</code></pre> |
-
 ## 📱 Requirements
-1. 🔓 Rooted Android phone or Emulator with root access (LDPlayer 9 / Nox Player)
-2. 🛠️ ADB tools required for real devices only. Or use [MT Manager](https://mt2.cn/) to replace the .so file on the device.
-3. 🔄 Tools for traffic capture: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
+1. 📱 **No root needed** — runs on any Android phone or emulator. Recommended emulator: **LDPlayer 9 (Android 9)**.
+2. 🔎 **Pick the right architecture (ABI).** Check your device's ABI first (recommended) with the ADB command below — or any device-info app such as CPU-Z — then grab the matching build:
+   ```bash
+   adb shell getprop ro.product.cpu.abi
+   ```
+   - 📱 **Real Android phone** → normally **`arm64-v8a`**
+   - 💻 **Emulator (Android 9 / LDPlayer 9)** → normally **`x86_64`**
+3. 🔄 Traffic capture tools: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 
 ## 🔧 Setup Process
  1. ⬇️ **Download the patched APK** from the [GitHub Releases](https://github.com/shajon-dev/Facebook-SSL-Pinning-Bypass/releases) page, choosing the file that matches your device architecture (`arm64-v8a` / `armeabi-v7a` / `x86` / `x86_64`).
@@ -104,3 +98,14 @@ If a specific bypass is not available on my GitHub, or if you have a custom proj
     <img src="https://img.shields.io/badge/💬_Let's_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
   </a>
 </p>
+
+## ☕ Buy Me a Coffee
+
+If this project helped you, consider buying me a coffee! ❤️
+
+| Coin | Network | Address |
+| :--- | :--- | :--- |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/history/bnb-bnb-logo.svg" width="20" /></td><td>&nbsp;<b>Binance</b></td></tr></table> | Binance Pay (UID) | <pre><code>839622149</code></pre> |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/tether-usdt-logo.svg" width="20" /></td><td>&nbsp;<b>USDT</b></td></tr></table> | TRC20 [TRX Network] | <pre><code>TAsPdCxkX9CeErJ4vw7xBHfZDT6vpdfmwH</code></pre> |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" /></td><td>&nbsp;<b>ANY Crypto</b></td></tr></table> | ETH / BSC | <pre><code>0x22d4f314acbf6055b0a37df8df68f9cd40ba889a</code></pre> |
+| <table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg" width="20" /></td><td>&nbsp;<b>BTC</b></td></tr></table> | Bitcoin Network | <pre><code>14RYf4pw7v2rtttLxRch2StjFzFAn9ycCE</code></pre> |
