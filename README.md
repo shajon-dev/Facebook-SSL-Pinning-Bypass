@@ -25,7 +25,7 @@
 10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 
 ## 📦 For Demo - Download Official APKs
-  - For any issues, contact me on Telegram. Read README.md carefully before use.
+  - For any issues, contact me on Telegram. Read [setup process](#-setup-process) carefully before use.
   - Please note that the latest version is a paid release and is not available for free download.
 <table width="100%">
   <thead>
