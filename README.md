@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **574.0.0.40.71**
+- App version: **576.0.0.42.73**
 - Architecture: **arm64-v8a, armeabi-v7a, x86, x86_64**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
@@ -18,7 +18,7 @@
 ---
 
 ## 🎥 Evidence
-![Facebook Android](assets/v574.jpg)
+![Facebook Android](assets/v576.jpg)
 
 ---
 
@@ -30,8 +30,8 @@
 5. [Instagram iOS](https://github.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass)
 6. [Threads Android](https://github.com/shajon-dev/Threads-SSL-Pinning-Bypass)
 7. [Threads iOS](https://github.com/shajon-dev/iOS-Threads-SSL-Pinning-Bypass)
-8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suit-SSL-Pinning-Bypass)
-9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suit-SSL-Pinning-Bypass)
+8. [Business Suite Android](https://github.com/shajon-dev/Meta-Business-Suite-SSL-Pinning-Bypass)
+9. [Business Suite iOS](https://github.com/shajon-dev/iOS-Meta-Business-Suite-SSL-Pinning-Bypass)
 10. [TikTok iOS](https://github.com/shajon-dev/iOS-TikTok-SSL-Pinning-Bypass)
 11. [TikTok Android](https://github.com/shajon-dev/TikTok-SSL-Pinning-Bypass)
 
@@ -59,7 +59,7 @@
   <tbody>
     <tr>
       <td rowspan="3" align="center"><code>com.facebook.katana</code></td>
-      <td align="center">574.0.0.40.71</td>
+      <td align="center">576.0.0.42.73</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td colspan="4" align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
